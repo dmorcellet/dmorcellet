@@ -1,4 +1,7 @@
-👋 Hi, I’m Damien MORCELLET.
+<h1 align="center">Hi 👋, I'm Damien MORCELLET</h1>
+<h3 align="center">Software Engineer, Lotro Companion author</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmorcellet" alt="dmorcellet trophies" /></a> </p>
 
 I'm a professional software developer. I live near Paris, in France.
 
