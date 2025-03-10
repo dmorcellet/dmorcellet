@@ -18,7 +18,9 @@ Feel free to contact me by email, if you want.
 dmorcellet/dmorcellet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=dmorcellet&show_icons=true&locale=en" alt="dmorcellet" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dmorcellet&show_icons=true&locale=en" alt="dmorcellet" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmorcellet&" alt="dmorcellet stats" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dmorcellet" alt="dmorcellet stats" />
+</p>
